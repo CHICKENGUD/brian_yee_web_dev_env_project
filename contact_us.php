@@ -26,14 +26,8 @@
             The Website Design Specialist ACS/AEC – NWE.0F program aims to train website design specialists capable of designing, developing and maintaining websites. Graduates can produce interactive websites and its programming interfaces. They can intervene at various levels in the entire website production chain. Their work can involve design, programming (front-end and back-end), databases, publishing and project management. Graduates become versatile UX/UI website designers. They will be able to successfully integrate into the labour market and into multidisciplinary teams.
         </p>
         <h2>Program Approach</h2>
-        <p>
-            The program design follows three orientations to train specialists in website development:
-            <ol>
-                <li>Provides a practical approach to train students in website design environments.</li>
-                <li>Uses technology watch mechanisms to continually update the skills developed by students</li>
-                <li>Incorporates a workplace internship to enable students to apply and validate their competencies in an employment setting.</li>
-            </ol>
-        </p>
+        <p> Bruh, I'm a gamer, but I have no plans in going to game design after this program.</p>
+
     </div>
   </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
