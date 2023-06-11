@@ -12,6 +12,8 @@
 }
 
 .onebigsection{
-    background: url(/Assets/images/trollface.jpg)
+    background: url(/Assets/images/trollface.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
