@@ -18,7 +18,7 @@
         <a href="map.php" class="btn btn-dark">Map</a>
         <div class="row">
             <div class="col-4"></div>
-            <div class="col-4"><img src="assets/images/phone.jpg" alt="COllege" width="100%"></div>
+            <div class="col-4"><img src="/Assets/images/phone.jpg" alt="COllege" width="100%"></div>
             <div class="col-4"></div>
         </div>
         <h1>Contact Us - Web Design Specialist Program</h1>
